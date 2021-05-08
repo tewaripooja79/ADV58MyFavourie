@@ -1,0 +1,62 @@
+body{
+  text-align:center;
+  background:linear-gradient(#0ccef5 0%,#08cc2c 100%); 
+}
+img
+{
+  width:300px;
+  margin-top:20px;
+} 
+
+h1{
+  text-shadow:2px 2px #F8BBD0;
+  font-size:35px;
+}
+
+p{
+  font-size:18px;
+  color:darkblue;
+  font-weight:bold;
+  
+  
+}
+h2{
+  font-size:20px;
+  color:#1A237E;
+}
+.line{
+  height:6px;
+  background-color:black;
+  width:70px;
+  margin:8px auto;
+    
+   
+}
+#bio{
+  padding:20px;
+  font-size:18;
+  text-align:center;
+}
+
+.menu{
+  list-style:none;
+  color:white;
+  font-family:cursive;
+  top:10px;
+  cursor:pointer;
+  
+  
+}
+
+.link{
+  display:inline;
+  padding-right:20px;
+}
+
+.link ,hover{
+   text-shadow:2px 2px green;  
+}
+
+#myname{
+  font-family:'Cinzel Decorative';
+}
